@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 	<head>
-		<title>Front Street Public House</title>
+		<title>Riverport/South - Property Services</title>
 		<meta charset="utf-8">
 	    <meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" type="text/css" href="_css/reset.css" />

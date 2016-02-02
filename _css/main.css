@@ -43,22 +43,20 @@ h3, h3, h4 {
 }
 
 a {
-	color: #2085cb;
+	color: #60CBFA;
 	text-decoration: none;
 }
 
 a:visited {
-	color: #2085cb;
+	color: #60CBFA;
 }
 
 p {
-	margin:11px 0;
-	line-height:22px;
-	font-size: 12px;
+	margin: 11px 0;
+	line-height: 22px;
+	font-size: 14px;
 	margin-left: 20px;
-	line-height: 16px;
-	color: #cacaca;
-	color: rgb(173, 173, 173);
+	color: #fff;
 }
 
 strong {
@@ -244,7 +242,7 @@ header #tagline {
 /* Home Page */
 
 #home_page_slideshow {
-	height: 403px;
+	/*height: 403px;*/
 }
 
 #calendar_module {

@@ -1,5 +1,5 @@
 <?php
 
-echo "Riverport/South - Coming Soon.";
+echo "Riverport/South - Coming February 2016.";
 
 ?>

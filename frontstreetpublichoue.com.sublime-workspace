@@ -1,0 +1,749 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"sub",
+				"subscribe_form"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"start",
+				"start-min"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"width",
+				"width_75"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"inve",
+				"investorContactModal"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"school",
+				"schools-page"
+			],
+			[
+				"sl",
+				"slideUp"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"wa",
+				"waitlistModal"
+			],
+			[
+				"mo",
+				"modal-content"
+			],
+			[
+				"pre",
+				"parent"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"m",
+				"missionStatement"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"Te",
+				"text-transform"
+			],
+			[
+				"amo",
+				"amountInFund"
+			],
+			[
+				"loan",
+				"loan-refinance-page"
+			],
+			[
+				"index",
+				"index-page"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"pageT",
+				"pageType"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"compa",
+				"compare_loans"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"blue",
+				"blueBtn"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"dis",
+				"disclaimer"
+			],
+			[
+				"is",
+				"isMoblieBrowser"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"curr",
+				"currencyFormatter"
+			],
+			[
+				"bold",
+				"bold-font"
+			],
+			[
+				"cell",
+				"cellValue"
+			],
+			[
+				"l",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_javascript/main.js",
+			"settings":
+			{
+				"buffer_size": 2928,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"Snippet: htl",
+				"Snippet: html"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/views/home_view.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/controllers/mailchimp_controller.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/_css/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/views/calendar_view.php",
+		"/Users/joshknight/Library/Application Support/Sublime Text 2/Packages/User/html5_stub.sublime-snippet",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/views/_includes/head.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/views/_includes/footer_module.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/views/_includes/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/views/_includes/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/_css/less_than_ie9.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/_javascript/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/_api_mailchimp/list_subscribe_weekly.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/_javascript/subscribe.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/config/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/controllers/main_controller.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/_api_mailchimp/MCAPI.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/google-api-php-client/src/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/google-api-php-client/src/Google_Client.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/google-api-php-client/src/contrib/Google_CalendarService.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/_css/type.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/config/autoload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/github_pull.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/application/views/welcome_message.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/frontstreetpublichouse.com/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites.com/piesites.sublime-workspace",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/views/_includes/body_begin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/sftp-config.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/piesites.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/controllers/main_controller.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/config/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/views/sign_up.php",
+		"/Users/joshknight/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/channel.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/config/autoload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/views/_includes/body_end.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/views/_includes/head.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/development/piesites/application/index.html",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/financial-aid-office.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/invest.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_js/mobile.js",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_css/global/mobile.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/pre-content.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/school-page-include.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/schools.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/pre-content.php.r1068",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/pre-content.php.r1056",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/pre-content.php.mine",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_js/school-pages.js",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/nav.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/post-content.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_css/global/master.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/loan-refinance.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/index.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/student-loans.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/footer-nav.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/compare-student-loan.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/compare-loan-refinance.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/calculators.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_css/global/mobile.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/releases/epsilon/web/loan-refinance.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/releases/epsilon/web/student-loans.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/releases/epsilon/web/index.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_css/pages/financial-aid-office.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_css/pages/compare_loans_table.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/financial-aid.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_css/compare-loans-table.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_css/schools-mobile.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_includes/pre-content.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/refi-calculator.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/financial_aid_office/web/financial-aid.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/financial_aid_office/web/_css/pages/financial-aid.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_css/compare-loans-table.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/financial_aid_office/web/_css/global/mobile.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_css/pages/engage.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_css/pages/faq.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/financial_aid_office/web/_css/pages/faq.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_css/pages/financial-aid.css",
+		"/Users/joshknight/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/financial_aid_office/web/financial_aid.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/schools.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_includes/school-page-include.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_includes/school-info-list.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_includes/universityWebInfo.json",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/site-map.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_js/mobile.js",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/index.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/loan-refinance.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_includes/footer-nav.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_css/global/master.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_includes/nav.php",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/schools.php",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_js/mobile.js",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_js/mobile-school-pages.js",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_js/mobile-school-pages.js",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_includes/pre-content.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_includes/post-content.php",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_includes/post-content.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_js/nav.js",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_includes/nav.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web/_css/schools.css",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_css/global/mobile.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/alumni_funded_marketing_message_consistency_update/web/faq.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/alumni_funded_marketing_message_consistency_update/web/_includes/school-page-include.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/alumni_funded_marketing_message_consistency_update/web/company.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/alumni_funded_marketing_message_consistency_update/web/disclaimers.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/alumni_funded_marketing_message_consistency_update/web/index.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/alumni_funded_marketing_message_consistency_update/web/press.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/alumni_funded_marketing_message_consistency_update/wordpress-wp_content/themes/sofi/school_page_include.php",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_css/schools-mobile.css",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_css/schools.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/compare-loans-table-new.php",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_includes/compare-loans-table-refi.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/trunk/web/_includes/compare-loans-table-refi.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/loan_comparison_updates/web/_includes/compare-loans-table-new.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/loan_comparison_updates/web/_includes/compare-loans-table-refi.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/loan_comparison_updates/web/_css/pages/compare_loans_table.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/loan_comparison_updates/web/_includes/pre-content.php",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/loan_comparison_updates/web/_css/compare-loans-table.css",
+		"/Users/joshknight/Sites/svn02.sofi.com/branches/loan_comparison_updates/web/compare-student-loan.php",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_css/pages/compare_loans_table.css",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_css/global/master.css",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_css/compare-loans-table.css",
+		"/Users/joshknight/Desktop/gamma_source_manual_merge/web/_includes/compare-loans-table-new.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"/Users/joshknight/Sites/svn02.sofi.com/trunk/web",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/epsilon/web",
+			"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web",
+			"/Users/joshknight/Sites/svn02.sofi.com/branches/alumni_funded_marketing_message_consistency_update",
+			"/Users/joshknight/Sites/svn02.sofi.com/branches/refinance_mobile_optimization/web",
+			"/Users/joshknight/Sites/svn02.sofi.com/branches/loan_comparison_updates/web",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/gamma",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/gamma,-*.css",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/gamma",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/gamma,/Users/joshknight/Sites/svn02.sofi.com/branches/calculators_page/web,/Users/joshknight/Sites/svn02.sofi.com/releases/gamma,/Users/joshknight/Sites/svn02.sofi.com/releases/beta,/Users/joshknight/Sites/svn02.sofi.com/releases/gamma",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/gamma,/Users/joshknight/Sites/svn02.sofi.com/branches/calculators_page/web,/Users/joshknight/Sites/svn02.sofi.com/releases/gamma,/Users/joshknight/Sites/svn02.sofi.com/releases/beta",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/gamma,/Users/joshknight/Sites/svn02.sofi.com/branches/calculators_page/web,/Users/joshknight/Sites/svn02.sofi.com/releases/gamma",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/gamma,/Users/joshknight/Sites/svn02.sofi.com/branches/calculators_page/web",
+			"/Users/joshknight/Sites/svn02.sofi.com/releases/gamma",
+			"/Users/joshknight/Sites/svn02.sofi.com/trunk/web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&",
+			"_100",
+			"module_1",
+			"jeader",
+			"nth",
+			"em",
+			"introBox",
+			"view our rates",
+			"schoolsNewDropDown",
+			"onchange",
+			"successMessage",
+			"type",
+			".modal-content",
+			"modal-",
+			"h2",
+			"simplemodal\nsimplemodal",
+			"simplemodal",
+			"#school_section2 h3",
+			"modal",
+			"nav",
+			"background",
+			"rates",
+			"border",
+			"dotted",
+			"border",
+			"dotted",
+			"view our rates",
+			"email-bar",
+			"color",
+			"Alumni Backed",
+			"Alumni Based",
+			"ver",
+			"amountInFund",
+			"ctaButton",
+			"ctaBox",
+			"promoBox",
+			"hideAllPageContent",
+			".disc",
+			".home_text_block, .home_image_block",
+			"left_side",
+			"swappable",
+			"splitTwoThirds",
+			"footer",
+			"h3",
+			"font-size",
+			"missionStatement",
+			"bigNav",
+			"cloud",
+			"master.css",
+			"h2",
+			"bullet_checkmark.png",
+			"alumni-",
+			"Alumni-based",
+			"Alumni-backed",
+			"alumni-backed",
+			"alumni-based",
+			"isMobileBrowser",
+			"compare_loans_table.css",
+			"cta",
+			"$isMobileBrowser",
+			"pageTitle",
+			"school_section2",
+			"td class=\"bold\"",
+			"</td>",
+			"<td>",
+			"</td>",
+			"<td>",
+			"/td",
+			"td class=\"bold\"",
+			"lastItem",
+			"/td",
+			"<td>",
+			"</td>",
+			"<td>",
+			"clear",
+			" class=\"bold\"",
+			"class=\"bold\" ",
+			"class=\"bold\"",
+			"#compare_loans",
+			"getCtaLinks",
+			"#ctaBox",
+			".disclaimer",
+			"a.lo",
+			"header",
+			"schools.css",
+			"availFundingBox",
+			"#availFundingBox",
+			"#school_section",
+			"header",
+			"intro",
+			"red",
+			"nav",
+			"schools.php",
+			"<style>\n		#container {\n",
+			"background: url(\"/_images/school_images/generic_school_image.jpg\") no-repeat center -57px;",
+			"mobile_header_img.jpg",
+			"school-info-list.php",
+			"schoolChooserModal",
+			"choose your school",
+			"#container",
+			"generic_school_image.jpg",
+			"mobile.js",
+			"mobileHeader",
+			"nav.php",
+			".schoolsRefiDropDown",
+			"rounde",
+			"school_section2",
+			"-->",
+			"Main.js",
+			"main.js",
+			"school_page_mobile",
+			"schools_page_mobile",
+			"isMobile",
+			"swapp",
+			"school_bullets",
+			"pageType",
+			"HAS_NAME_PROPERTY_BUG",
+			"isMoblie",
+			"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n	<head>\n		<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/>\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"/_css/charts.css\">\n		<title>SoFi</title>\n		<script src=\"/_js/jquery-1.7.2.min.js\"></script>\n		<script type=\"text/javascript\" src=\"https://www.google.com/jsapi\"></script>\n		<script type=\"text/javascript\">\n			google.load('visualization', '1', {packages: ['corechart', 'table']});\n		</script>\n		<script type=\"text/javascript\">\n		var salesTarget;\n		function drawVisualization() {\n			var salesTableQuery		= new google.visualization.Query('https://docs.google.com/a/sofi.org/spreadsheet/tq?key=0AqYRUu_2yTNfdHhpUE9ZbFF1czVRMWFlVzdBekF3S2c&headers=-1');\n			var salesProgressQuery	= new google.visualization.Query('https://docs.google.com/a/sofi.org/spreadsheet/tq?key=0AqYRUu_2yTNfdHhpUE9ZbFF1czVRMWFlVzdBekF3S2c&gid=1&headers=-1');\n			salesTableQuery.send(handleSalesTableQueryResponse);\n			salesProgressQuery.send(handleSalesProgressQueryResponse);\n			//var single_query_test = new google.visualization.Query('https://docs.google.com/a/sofi.org/spreadsheet/tq?range=A1&key=0AqYRUu_2yTNfdHhpUE9ZbFF1czVRMWFlVzdBekF3S2c&headers=-1');\n			//single_query_test.send(handleSingleQueryResponse);\n		}\n\n		function handleSalesProgressQueryResponse(response) {\n			var data2 = response.getDataTable();\n			var test_value = new google.visualization.Table(document.getElementById('test_value'));\n			var options = {\n							width: 200, \n							height: 40,\n							cssClassNames: {\n								headerRow: \"noHeader\",\n								tableCell: \"noBorder\",\n								hoverTableRow: \"noHover\",\n						selectedTableRow: \"noSelectionState\"\n							},\n							allowHtml: true  \n					};\n\n					//test_value.draw(data2, options);\n					salesTarget = data2.getValue(0, 0)\n					//console.log(\"cell_value1: \"+cellValue);\n					//document.getElementById('cellValue').text = cellValue;\n					$(\"#salesTarget\").text(salesTarget);\n							\n\n		}\n			function handleSalesTableQueryResponse(response) {\n					if (response.isError()) {\n						alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());\n						return;\n					}\n\n\n			var data = response.getDataTable();\n			var options = {\n							title: 'Test Chart',\n							backgroundColor: {\n								fill: '#000'\n							},\n							curveType: \"function\",\n							width: 1200, height: 400,\n							vAxis: {\n								maxValue: 10\n							}\n					};\n\n\n			var formatter = new google.visualization.ColorFormat();\n		formatter.addRange(0, 200000, 'white', 'orange');\n		formatter.addRange(200000, 3000000, 'black', '#33ff33');\n		formatter.format(data, 5); // Apply formatter to second column\n\n		\n\n\n					//visualization = new google.visualization.LineChart(document.getElementById('visualization'));\n						//visualization.draw(data, options);\n						var options = {\n					showRowNumber: false,\n					allowHtml: true\n						}	\n						var table = new google.visualization.Table(document.getElementById('table_div'));\n					table.draw(data, options);\n			}\n			google.setOnLoadCallback(drawVisualization);\n			//google.setOnLoadCallback(drawTable);\n\n			// google.load('visualization', '1', {packages:['table']});\n			// google.setOnLoadCallback(drawTable);\n			// function drawTable() {\n			//   var data = new google.visualization.DataTable();\n			//   data.addColumn('string', 'Name');\n			//   data.addColumn('number', 'Salary');\n			//   data.addColumn('boolean', 'Full Time Employee');\n			//   data.addRows([\n			//     ['Mike',  {v: 10000, f: '$10,000'}, true],\n			//     ['Jim',   {v:8000,   f: '$8,000'},  false],\n			//     ['Alice', {v: 12500, f: '$12,500'}, true],\n			//     ['Bob',   {v: 7000,  f: '$7,000'},  true]\n			//   ]);\n\n			//   var table = new google.visualization.Table(document.getElementById('table_div'));\n			//   table.draw(data, {showRowNumber: true});\n			// }\n\n		</script>\n\n	</head>\n	<body style=\"font-family: Arial;border: 0 none;\">\n		<h1>Test</h1>\n		<div id=\"salesTarget\"></div>\n		<div class=\"noHeader\" id=\"test_value\"></div>\n		<div id=\"table_div\"></div>\n\n		 \n		<!-- <div id=\"visualization\"></div> -->\n	</body>\n</html>",
+			"\n						",
+			"start-program.php",
+			"How to Bring Sofi to my school",
+			"modal-content",
+			"joinWaitlistForm",
+			"invest",
+			"pageType",
+			"get_option",
+			"set_category_base"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&amp;",
+			"Alumni-funded",
+			"alumni-funded",
+			"showMobileVersion",
+			"$showMobileVersion",
+			"li",
+			"</li>",
+			"<li>",
+			"</span>",
+			"<span>",
+			"/li",
+			"li",
+			"/li",
+			"<li>",
+			"</li>",
+			"<li>",
+			"",
+			".compareLoans"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_javascript/main.js",
+					"settings":
+					{
+						"buffer_size": 2928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2549,
+								1457
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 633.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 251.0
+	},
+	"output.sftp":
+	{
+		"height": 246.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/development/sublime_projects/s1.etradeinbids.com.sublime-project"
+			]
+		],
+		"width": 832.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 455.0,
+	"status_bar_visible": true
+}

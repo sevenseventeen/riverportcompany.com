@@ -15,7 +15,7 @@ include '_includes/head.php';
 		?>
 
 		<div id="home_page_slideshow" class="module width_100 remove_padding rounded_corners">
-			<img src="_images/property.jpg" />
+			<img class="rounded_corners drop_shadow_1" src="_images/property.jpg" />
 		</div>
 
 		<div class="clear_float"></div>
